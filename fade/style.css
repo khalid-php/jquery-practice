@@ -1,0 +1,25 @@
+.red {
+ width: 40px;
+ height: 50px;
+ background-color: chartreuse;
+}
+.white {
+    width: 40px;
+    height: 50px;
+    background-color:#FFF123;
+   }
+   .blue {
+    width: 40px;
+    height: 50px;
+    background-color:#111155;
+   }
+   .black {
+    width: 40px;
+    height: 50px;
+    background-color:#002321;
+   }
+   .div {
+       height: 30px;
+       width:50px;
+
+   }
